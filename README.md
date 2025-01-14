@@ -7,8 +7,7 @@ Hello, My name is Giulian Bodiu!!
 
 * Passion for technology ✅
 
-* Currently have experience coding in java, c++, visual basic, HTML and CSS, and Javascript, and SQL.
+* Currently have experience coding in java, c++, vis
 
-* Learning how to use HTML, CSS, and Javascript ✅
 
 
