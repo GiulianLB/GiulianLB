@@ -7,7 +7,9 @@ Hello, My name is Giulian Bodiu!!
 
 * Passion for technology ✅
 
-* Currently have experience coding in java, c++, vis
+* Currently have experience coding in java, c++, visual basic, Javascript
+
+* Linux is fun!
 
 
 
